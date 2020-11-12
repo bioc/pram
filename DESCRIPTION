@@ -50,7 +50,7 @@ Collate: 'Param.R'
          'selModel.R'
          'util.R'
 VignetteBuilder: knitr
-biocViews: Software, Technology, Sequencing, RNASeq
+biocViews: Software, Technology, Sequencing, RNASeq, BiologicalQuestion, GenePrediction, GenomeAnnotation, ResearchField, Transcriptomics
 SystemsRequirements: buildModel() and runPRAM() functions require external 
     software Cufflinks, StringTie, and/or TACO. For details, please see the 
     'Required external software' section in vignette's 
