@@ -6,8 +6,10 @@ citEntry(
                          as.person("Emery H. Bresnick"),
                          as.person("Colin N. Dewey"),
                          as.person("Sündüz Keleş") ),
-    year    = 2019,
-    journal = "bioRxiv",
-    doi     = "10.1101/636282",
-    textVersion = "PRAM: a novel pooling approach for discovering intergenic transcripts from large-scale RNA sequencing experiments. Peng Liu, Alexandra A. Soukup, Emery H. Bresnick, Colin N. Dewey, and Sündüz Keleş. bioRxiv, 2019. doi: https://doi.org/10.1101/636282"
+    year    = 2020,
+    volume  = 30,
+    pages   = "1655-1666",
+    journal = "Genome Research",
+    doi     = "10.1101/gr.252445.119",
+    textVersion = "PRAM: a novel pooling approach for discovering intergenic transcripts from large-scale RNA sequencing experiments. Peng Liu, Alexandra A. Soukup, Emery H. Bresnick, Colin N. Dewey, and Sündüz Keleş. Genome Research, 2020. 30:1655-1666 doi: https://doi.org/10.1101/gr.252445.119"
 )
