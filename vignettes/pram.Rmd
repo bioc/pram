@@ -3,16 +3,16 @@ title: "PRAM: Pooling RNA-seq and Assembling Models"
 author: "Peng Liu, Colin N. Dewey, and Sündüz Keleş"
 date: "`r Sys.Date()`"
 output: 
-    #rmarkdown::html_vignette:
-    #    toc: true
-    #    fig_caption: yes
-    # GitHub no longer renders Rmd file, I have to use PDF to show vignette
-    BiocStyle::pdf_document:
+    rmarkdown::html_vignette:
         toc: true
-        toc_depth: 2
-        number_sections: true
         fig_caption: yes
-        # highlight: tango
+    # GitHub no longer renders Rmd file, use PDF to show vignette
+    #BiocStyle::pdf_document:
+    #    toc: true
+    #    toc_depth: 2
+    #    number_sections: true
+    #    fig_caption: yes
+    #    # highlight: tango
 urlcolor: blue
 linkcolor: blue
 vignette: >
