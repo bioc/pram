@@ -1,6 +1,6 @@
 Package: pram
 Title: Pooling RNA-seq datasets for assembling transcript models
-Version: 1.22.0
+Version: 1.23.0
 Authors@R: c(
     person( given="Peng",     family="Liu",
             email = "pliu55.wisc+bioconductor@gmail.com",
