@@ -1,6 +1,6 @@
 Package: pram
 Title: Pooling RNA-seq datasets for assembling transcript models
-Version: 1.25.0
+Version: 1.25.1
 Authors@R: c(
     person( given="Peng",     family="Liu",
             email = "pliu55.wisc+bioconductor@gmail.com",
@@ -31,7 +31,7 @@ Imports: methods,
          GenomicAlignments (>= 1.16.0),
          rtracklayer       (>= 1.40.6),
          BiocGenerics      (>= 0.26.0),
-         GenomeInfoDb      (>= 1.16.0),
+         Seqinfo,
          GenomicRanges     (>= 1.32.0),
          IRanges           (>= 2.14.12),
          Rsamtools         (>= 1.32.3),
